@@ -1,6 +1,6 @@
 # License
 
-Here you can put the license for the package
+Hi Ariella. Here you can put the license for the package
 
 # Package description
 
